@@ -22,5 +22,5 @@
 
 ## Beurtenlog
 - beurt1: <Naam> gokt "?"
-- (Git-master vult hier reactie in: goed/fout + updates)
+- (Goed)
 - beurt2: ...
