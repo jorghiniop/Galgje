@@ -2,25 +2,36 @@
 
 **Team:** <supercoolteam>  
 **Spelvolgorde & contact:**
-1. <Jorghinio> – <email1@example.com>
+1. <Jorghinio> – <38213@ma-web.nl>
 2. <Guido> – <email2@example.com>
 3. <Jamil> – <jackdaarhen@gmail.com>
-4. <Naam 4> – <email4@example.com>
+4. <Booker> – <email4@example.com>
 
 ---
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| . | . | . | . | . | . | . | . | . | . | . | . |
-| - | - | - | - | - | - | - | - | - | - | - | - |
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-
+| . | . | . | . | . | . |
+| - | - | - | - | - | - |
+| 1 | 2 | 3 | 4 | 5 | 6 |
 ## Status
 ![status](images/1.png)
 
----
+--- 
 
 ## Beurtenlog
-- beurt1: <Guido> gokt "A"
-- (Goed)
-- beurt2: ...
+- beurt1: <Guido> 
+- beurt2: <Jamil> 
+- beurt3: <Booker> 
+- beurt4: <Guido> 
+- beurt5: <Jamil> 
+- beurt6: <Booker> 
+- beurt7: <Guido> 
+- beurt8: <Jamil> 
+- beurt9: <Booker> 
+- beurt10: <Guido>
+- beurt11: <Jamil> 
+- beurt12: <Booker> 
+- beurt13: <Guido> 
+- beurt14: <Jamil> 
+- beurt15: <Booker> 
