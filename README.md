@@ -21,6 +21,6 @@
 ---
 
 ## Beurtenlog
-- beurt1: <Naam> gokt "?"
+- beurt1: <Guido> gokt "A"
 - (Goed)
 - beurt2: ...
