@@ -1,10 +1,10 @@
 # Galgje – Git Collaboration
 
-**Team:** <Teamnaam>  
+**Team:** <supercoolteam>  
 **Spelvolgorde & contact:**
 1. <Jorghinio> – <email1@example.com>
 2. <Guido> – <email2@example.com>
-3. <Jamil> – <email3@example.com>
+3. <Jamil> – <jackdaarhen@gmail.com>
 4. <Naam 4> – <email4@example.com>
 
 ---
@@ -23,5 +23,4 @@
 ## Beurtenlog
 - beurt1: <Naam> gokt "?"
 - (Goed)
-- beurt2: ..
-- When the duust sttllessl just you and me remain
+- beurt2: ...
