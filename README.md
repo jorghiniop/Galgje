@@ -23,4 +23,5 @@
 ## Beurtenlog
 - beurt1: <Naam> gokt "?"
 - (Goed)
-- beurt2: ...
+- beurt2: ..
+- When the duust sttllessl just you and me remain
