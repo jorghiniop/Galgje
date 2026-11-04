@@ -1,6 +1,6 @@
 # Galgje – Git Collaboration
 
-**Team:** <Teamnaam>  
+**Team:** <supercoolteam>  
 **Spelvolgorde & contact:**
 1. <Jorghinio> – <email1@example.com>
 2. <Guido> – <email2@example.com>
