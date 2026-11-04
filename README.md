@@ -3,7 +3,7 @@
 **Team:** <supercoolteam>  
 **Spelvolgorde & contact:**
 1. <Jorghinio> – <38213@ma-web.nl>
-2. <Guido> – <email2@example.com>
+2. <Guido> – <guidomailchat>
 3. <Jamil> – <jackdaarhen@gmail.com>
 4. <Booker> – <email4@example.com>
 
