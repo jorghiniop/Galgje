@@ -21,7 +21,7 @@
 
 ## Beurtenlog
 - beurt1: <Guido>E
-- beurt2: <Jamil> 
+- beurt2: <Jamil> B
 - beurt3: <Booker> 
 - beurt4: <Guido> 
 - beurt5: <Jamil> 
