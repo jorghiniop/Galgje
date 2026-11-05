@@ -23,7 +23,7 @@
 - beurt1: <Guido>E
 - beurt2: <Jamil> B
 - beurt3: <Booker> R 
-- beurt4: <Guido> 
+- beurt4: <Guido> L
 - beurt5: <Jamil> 
 - beurt6: <Booker> 
 - beurt7: <Guido> 
