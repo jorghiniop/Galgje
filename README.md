@@ -11,7 +11,7 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| A | e | . | . | e | r |
+| A | e | t | h | e | r |
 | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 |
 ## Status
@@ -25,13 +25,4 @@
 - beurt3: <Booker> R 
 - beurt4: <Guido> L
 - beurt5: <Jamil> A
-- beurt6: <Booker> 
-- beurt7: <Guido> 
-- beurt8: <Jamil> 
-- beurt9: <Booker> 
-- beurt10: <Guido>
-- beurt11: <Jamil> 
-- beurt12: <Booker> 
-- beurt13: <Guido> 
-- beurt14: <Jamil> 
-- beurt15: <Booker> 
+- SUCCESVOL GEGOKT
