@@ -20,8 +20,8 @@
 --- 
 
 ## Beurtenlog
-- beurt1: <Guido> 
-- beurt2: <Jamil> 
+- beurt1: <Guido> A
+- beurt2: <Jamil> O
 - beurt3: <Booker> 
 - beurt4: <Guido> 
 - beurt5: <Jamil> 
