@@ -24,7 +24,7 @@
 - beurt2: <Jamil> 
 - beurt3: <Booker> 
 - beurt4: <Guido> 
-- beurt5: <Jamil> 
+- beurt5: <Jamil> R
 - beurt6: <Booker> 
 - beurt7: <Guido> 
 - beurt8: <Jamil> 
