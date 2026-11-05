@@ -20,11 +20,11 @@
 --- 
 
 ## Beurtenlog
-- beurt1: <Guido> WDANWJDBAWJD
+- beurt1: <Guido> 
 - beurt2: <Jamil> 
-- beurt3: <Booker> Bullshit
+- beurt3: <Booker>
 - beurt4: <Guido> 
-- beurt5: <Jamil> R
+- beurt5: <Jamil> 
 - beurt6: <Booker> 
 - beurt7: <Guido> 
 - beurt8: <Jamil> 
