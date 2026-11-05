@@ -22,7 +22,7 @@
 ## Beurtenlog
 - beurt1: <Guido> WDANWJDBAWJD
 - beurt2: <Jamil> 
-- beurt3: <Booker> 
+- beurt3: <Booker> Bullshit
 - beurt4: <Guido> 
 - beurt5: <Jamil> R
 - beurt6: <Booker> 
