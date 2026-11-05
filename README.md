@@ -20,7 +20,7 @@
 --- 
 
 ## Beurtenlog
-- beurt1: <Guido> WDANWJDBAWJD
+- beurt1: <Guido> 
 - beurt2: <Jamil> 
 - beurt3: <Booker> 
 - beurt4: <Guido> 
